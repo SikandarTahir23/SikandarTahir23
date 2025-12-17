@@ -1,19 +1,77 @@
-<h1 align="center">Hi 👋, I'm Sikandar Tahir</h1>
-<p align="center"> Full Stack Developer | AI & Chatbot Specialist</p>
+<h1 align="center">Hi 👋 I'm Sikandar Tahir</h1>
+<h3 align="center">Full Stack Developer • AI Engineer • Chatbot Specialist</h3>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23007ACC.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Agentic AI SDK](https://img.shields.io/badge/AgenticSDk-%23007ACC.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SikandarTahir23&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SIkandarTahir23&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umarprogrammer19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SikandarTahir23&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  I design and build intelligent web applications, AI-powered systems, and scalable chatbots.<br/>
+  Passionate about AI-native products, RAG systems, and modern full-stack engineering.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=umarprogrammer19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+
+- 🔹 Full Stack Web Development (Next.js, React, TypeScript)
+- 🔹 AI & RAG Chatbot Engineering
+- 🔹 Backend APIs with FastAPI & Node.js
+- 🔹 Database Design & Optimization
+- 🔹 AI Automation, Personalization & Translation Systems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Core
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="35"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="35"/>
+  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="35"/>
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="35"/>
+</p>
+
+### 🧠 AI, Backend & Databases
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="35"/>
+</p>
+
+### ☁️ Deployment
+<p>
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="35"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" width="35"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=SikandarTahir23&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SikandarTahir23&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SikandarTahir23&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <strong>Building AI-native systems that educate, automate, and inspire.</strong>
+</p>
