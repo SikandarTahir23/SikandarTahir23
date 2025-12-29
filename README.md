@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sikandar Tahir.</h1>
-<h3 align="center">Full Stack Developer • AI Engineer • Chatbot Specialist</h3>
+<h3 align="center">Full Stack Developer • AI Engineer • Chatbot Specialist.</h3>
 
 <p align="center">
   I design and build intelligent web applications, AI-powered systems, and scalable chatbots.<br/>
