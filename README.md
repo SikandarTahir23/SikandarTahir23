@@ -3,7 +3,7 @@
 
 <p align="center">
   I design and build intelligent web applications, AI-powered systems, and scalable chatbots.<br/>
-  Passionate about AI-native products, RAG systems, and modern full-stack engineering.
+  Passionate about AI-native products, RAG systems, and modern full-stack engineering
 </p>
 
 ---
