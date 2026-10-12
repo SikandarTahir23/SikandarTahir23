@@ -456,13 +456,13 @@ From polished interfaces to backend APIs, databases, integrations, and deploymen
 
 <br/>
 
-<a href="https://st-portfolio-lime.vercel.app/">
+<a href="https://st-devai-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Live%20Portfolio-00ff9d?style=for-the-badge&logo=vercel&logoColor=black&labelColor=020617" />
 </a>
 
  
 
-<a href="https://www.linkedin.com/in/sikandar-tahir-356a56273/">
+<a href="https://www.linkedin.com/in/sikandar-tahir/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-00f3ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
 </a>
 
